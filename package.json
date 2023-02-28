@@ -9,7 +9,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "react": "16.3.1",
-    "react-native": "0.55.4"
+    "react-native": "0.71.3"
   },
   "devDependencies": {
     "babel-jest": "23.0.1",
